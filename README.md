@@ -9,3 +9,7 @@ https://build-your-own.org/webserver/
 or  
 From: How to Build a Web Server with Node JS | Node.js Tutorials for Beginners  
 https://youtu.be/3ZAKY-CDKog?feature=shared  
+
+Run the server: '''npm run dev'''  
+
+Run the tcp echo server: '''node --enable-source-maps echo_server.js'''
